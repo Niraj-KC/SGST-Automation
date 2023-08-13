@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GstLoginSysterm/.idea/GstLoginSysterm.iml" filepath="$PROJECT_DIR$/../GstLoginSysterm/.idea/GstLoginSysterm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SGST Automation.iml" filepath="$PROJECT_DIR$/.idea/SGST Automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tkinterComponent/.idea/tkinterComponent.iml" filepath="$PROJECT_DIR$/../tkinterComponent/.idea/tkinterComponent.iml" />
+    </modules>
+  </component>
+</project>
